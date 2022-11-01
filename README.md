@@ -1,7 +1,4 @@
 # Projeto Horas Extras
-<p align="center">
-	<img src="https://s4.gifyu.com/images/gifc946fc25dc99feeb.gif" alt="Hora Extra" title="Hora Extra">
-</p>
 
 ## 📖 Sobre
 O projeto de horas extras foi criado devido a necessidade da prefeitura de Salto em digitalizar e modernizar o processo atual quanto ao gerenciamento de horas extras na instituição. Sendo possível para os servidores realizarem pedidos de horas extras, e estes serem aprovados ou não por seus superiores.
@@ -17,9 +14,9 @@ O projeto de horas extras foi criado devido a necessidade da prefeitura de Salto
 ---
 
 ## 🖥️ Demonstração
-[![Bikcraft](https://i.imgur.com/Gy5e6Tn.png "Clique para acessar o projeto")](https://zgustavo.github.io/Bikcraft/index.html "Clique para acessar o projeto")   
-
-Você pode acessar o projeto clicando [aqui](https://zgustavo.github.io/Bikcraft/index.html).
+<p align="center">
+	<img src="https://s4.gifyu.com/images/gifc946fc25dc99feeb.gif" alt="Hora Extra" title="Hora Extra">
+</p>
 
 ---
 
